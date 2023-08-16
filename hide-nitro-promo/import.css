@@ -1,8 +1,11 @@
+/*Removes gift button in message bar*/
 .buttons-uaqb-5>.button-ejjZWC:first-child,
+/*Removes poput saying to switch to nitro*/
 .link-39sEB3[href="/store"],
 [class*="badgeContainer-"]:has([class*="bogoTrialBadge-"]),
 [class*="giftCodeContainer-"]:first-child,
 [aria-label="Customize your own profile theme, banner, animated avatar, and more with Nitro!"],
+/*removes erver boost status*/
 .containerWithMargin-1CVXAM {
   display: none;
 }
