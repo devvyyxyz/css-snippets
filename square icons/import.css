@@ -1,0 +1,4 @@
+/* not circle */
+[class^="avatar-"] {
+  border-radius: 25%;
+}
