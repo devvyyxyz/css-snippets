@@ -1,8 +1,0 @@
-.buttons-uaqb-5>.button-ejjZWC:first-child,
-.link-39sEB3[href="/store"],
-[class*="badgeContainer-"]:has([class*="bogoTrialBadge-"]),
-[class*="giftCodeContainer-"]:first-child,
-[aria-label="Customize your own profile theme, banner, animated avatar, and more with Nitro!"],
-.containerWithMargin-1CVXAM {
-  display: none;
-}
