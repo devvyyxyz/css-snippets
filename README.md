@@ -16,10 +16,10 @@ Welcome to the CSS Snippets repository! This repository contains a collection of
 
 2. **Select a Snippet**: Choose a snippet that addresses your specific development needs. Click on the snippet's file to view its content.
 
-3. **Copy and Paste**: Copy the snippet's code and paste it into your project's CSS file. Feel free to modify and adapt it to match your project's requirements.
+3. **Copy and Paste**: Copy the snippet's code and paste it into your clients's QuickCSS file. Feel free to modify and adapt it to match your clients's looks/needs.
    ![image](https://github.com/devvyyxyz/css-snippets/assets/132696257/ccd91f3c-e9e3-4dea-b505-db170df9ec87)
 
-5. **Learn and Experiment**: Take the time to study how each snippet works. Experiment with the code to see the effects it produces in your projects.
+4. **Learn and Experiment**: Take the time to study how each snippet works. Experiment with the code to see the effects it produces in your projects.
 
 ## Contributing
 
@@ -37,10 +37,10 @@ Contributions to this repository are welcome! If you have your own CSS code snip
 
 ## Community and Support
 
-If you have questions, suggestions, or need assistance with using a snippet, please open an issue in this repository. Our community is here to help and discuss CSS-related topics.
+If you have questions, suggestions, or need assistance with using a snippet, please open an issue in this repository. Our community is here to help and discuss CSS-related topics. you can also join the [Discord server](https://discord.gg/59a6jDAddj)
 
 ## License
 
 The code snippets in this repository are available under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code as long as you retain the original license information.
 
-Happy coding and enjoy using these CSS snippets in your projects!
+Happy coding and enjoy using these CSS snippets in your client!
